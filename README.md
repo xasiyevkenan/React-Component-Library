@@ -26,15 +26,15 @@ npm run build-storybook
 
 # 💻 Tech Stack
 
-- **React 18+ ⚛️ | TypeScript 📝 | Storybook 📚 | ESLint + Prettier ✨ | React Hook Form 🛠️ | CSS / Tailwind / Styled Components 🎨**
+- **React 18+ ⚛️ | TypeScript 📝 | Storybook 📚 | ESLint + Prettier ✨ | React Hook Form 🛠️ | CSS / Styled Components 🎨**
 
 # 🔧 Features
 
-Input Component: multi-type, clearable, password toggle
+- **Input Component:** multi-type, clearable, password toggle
 
-Toast Component: multiple types, auto-dismiss, fade/slide animations
+- **Toast Component:** multiple types, auto-dismiss, fade/slide animations
 
-Sidebar Menu: open state, 1-level & 2-level nested menus
+- **Sidebar Menu:** open state, 1-level & 2-level nested menus
 
 Interactive Storybook previews
 
@@ -42,47 +42,47 @@ Fully modular, TypeScript-based
 
 Screenshots for all components
 
-Input Component
+# Input Component
 
-Text (Clearable)
-![Input - Text Clearable](./src/assets/Task1.Part1.png)
+- **Text (Clearable)**
+  ![Input - Text Clearable](./src/assets/Task1.Part1.png)
 
-Text (Not Clearable)
-![Input - Text Not Clearable](./src/assets/Task1.Part2.png)
+- **Text (Not Clearable)**
+  ![Input - Text Not Clearable](./src/assets/Task1.Part2.png)
 
-Password (Clearable)
-![Input - Password Clearable](./src/assets/Task1.Part3.png)
+- **Password (Clearable)**
+  ![Input - Password Clearable](./src/assets/Task1.Part3.png)
 
-Password (Not Clearable)
-![Input - Password Not Clearable](./src/assets/Task1.Part4.png)
+- **Password (Not Clearable)**
+  ![Input - Password Not Clearable](./src/assets/Task1.Part4.png)
 
-Number (Clearable)
-![Input - Number Clearable](./src/assets/Task1.Part5.png)
+- **Number (Clearable)**
+  ![Input - Number Clearable](./src/assets/Task1.Part5.png)
 
-Number (Not Clearable)
-![Input - Number Not Clearable](./src/assets/Task1.Part6.png)
+- **Number (Not Clearable)**
+  ![Input - Number Not Clearable](./src/assets/Task1.Part6.png)
 
-2️⃣ Toast Component
+# Toast Component
 
-Success
-![Toast - Success](./src/assets/Task2.Part1.png)
+- **Success✅**
+  ![Toast - Success](./src/assets/Task2.Part1.png)
 
-Error
-![Toast - Error](./src/assets/Task2.Part2.png)
+- **Error❌**
+  ![Toast - Error](./src/assets/Task2.Part2.png)
 
-Info
-![Toast - Warn](./src/assets/Task2.Part3.png)
+- **Warn⚠️**
+  ![Toast - Warn](./src/assets/Task2.Part3.png)
 
-3️⃣ Sidebar Menu Component
+# Sidebar Menu Component
 
-Open (No Nested)
-![Sidebar - No Nested](screenshots/sidebar-nonested.png)
+- **Open (No Nested)**
+  ![Sidebar - No Nested](screenshots/sidebar-nonested.png)
 
-Open (1-Level Nested)
-![Sidebar - 1 Level](screenshots/sidebar-1level.png)
+- **Open (1-Level Nested)**
+  ![Sidebar - 1 Level](screenshots/sidebar-1level.png)
 
-Open (2-Level Nested → Step 1)
-![Sidebar - 2 Level Step 1](screenshots/sidebar-2level-step1.png)
+- **Open (2-Level Nested → Step 1)**
+  ![Sidebar - 2 Level Step 1](screenshots/sidebar-2level-step1.png)
 
-Open (2-Level Nested → Step 2)
-![Sidebar - 2 Level Step 2](screenshots/sidebar-2level-step2.png)
+- **Open (2-Level Nested → Step 2)**
+  ![Sidebar - 2 Level Step 2](screenshots/sidebar-2level-step2.png)
