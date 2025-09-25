@@ -30,11 +30,11 @@ npm run build-storybook
 
 # 🔧 Features
 
-- **Input Component:** multi-type, clearable, password toggle, react-hook-form used
+- **Input Component:** multi-type, clearable, password toggle,used react-hook-form ,used addon-controls
 
-- **Toast Component:** multiple types, auto-dismiss, fade/slide animations
+- **Toast Component:** multiple types, auto-dismiss, fade/slide animations,used addon-controls
 
-- **Sidebar Menu:** open state, 1-level & 2-level nested menus,fade/slide animations
+- **Sidebar Menu:** open state, 1-level & 2-level nested menus,fade/slide animations,used addon-controls
 
 Interactive Storybook previews
 
