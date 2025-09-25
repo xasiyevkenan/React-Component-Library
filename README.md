@@ -1,97 +1,44 @@
-React Component Library – Task Summary
-⚙️ Setup & Run from GitHub
+# 🎨 React Component Library
 
-Clone the repository:
+A small **React component library** created as part of a technical assessment. Includes reusable UI components built with **React** and **Storybook**, supporting multiple states and interactive previews. 🧩
 
+## ✅ Completed Tasks
+
+- **Input Component:** text, password, number types; clearable; password toggle; React Hook Form in stories; 6 story variants; screenshots included.
+- **Toast Component:** success, error, info types; auto-dismiss; fade/slide animations; optional manual close; 3 screenshot variants.
+- **Sidebar Menu Component:** open state rendering; nested menus (1-level & 2-level); 4 screenshot variants.
+
+## ⚙️ Setup & Run
+
+```bash
 git clone https://github.com/xasiyevkenan/React-Component-Library.git
 cd React-Component-Library
-
-Install dependencies:
-
 npm install
-
-Run Storybook:
-
 npm run storybook
+Storybook will open at http://localhost:6006 with all components interactive.
 
-Storybook will open at http://localhost:6006
+Optional static build:
 
-All components and their variants can be previewed interactively
-
-Build Storybook (optional):
-
+bash
+Kodu kopyala
 npm run build-storybook
+💻 Tech Stack
+React 18+ ⚛️ | TypeScript 📝 | Storybook 📚 | ESLint + Prettier ✨ | React Hook Form 🛠️ | CSS / Tailwind / Styled Components 🎨
 
-Generates a static Storybook site in the storybook-static folder
+🔧 Features
+Input Component: multi-type, clearable, password toggle
 
-🎯 Overview
+Toast Component: multiple types, auto-dismiss, fade/slide animations
 
-This repository contains a small React component library built as part of a technical assessment.
-The goal was to implement reusable UI components with multiple states and Storybook integration.
+Sidebar Menu: open state, 1-level & 2-level nested menus
 
-✅ Completed Tasks
-1️⃣ Input Component
+Interactive Storybook previews
 
-Multi-type support: text, password, number
+Fully modular, TypeScript-based
 
-Password visibility toggle
+Screenshots for all components
 
-Clearable option
-
-React Hook Form used in stories
-
-Storybook stories for all 6 variants
-
-Screenshots prepared for each variant
-
-2️⃣ Toast Component
-
-Notification types: success, error, info
-
-Auto-dismiss with configurable duration
-
-Fade/slide animations
-
-Optional manual close
-
-3 screenshot variants included
-
-3️⃣ Sidebar Menu Component
-
-Open state rendering
-
-Nested menus: 1-level and 2-level
-
-Screenshots for:
-
-Open (no nested)
-
-Open (1-level nested)
-
-Open (2-level nested → first step)
-
-Open (2-level nested → second step)
-
-📂 Project Highlights
-
-Fully TypeScript-based
-
-Storybook integration with interactive component previews
-
-ESLint + Prettier for consistent code style
-
-Clean and modular folder structure:
-
-src/
-├── components/
-│ ├── Input/
-│ ├── Toast/
-│ └── SidebarMenu/
-├── stories/
-└── index.ts
-
-📷 Screenshots
-1️⃣ Input Component
+Input Component
 
 Text (Clearable)
 ![Input - Text Clearable](./src/assets/Task1.Part1.png)
@@ -119,19 +66,21 @@ Success
 Error
 ![Toast - Error](./src/assets/Task2.Part2.png)
 
-Warn
+Info
 ![Toast - Warn](./src/assets/Task2.Part3.png)
 
 3️⃣ Sidebar Menu Component
 
 Open (No Nested)
-![Sidebar - No Nested](./src/assets/Task3.Part1.png)
+![Sidebar - No Nested](screenshots/sidebar-nonested.png)
 
 Open (1-Level Nested)
-![Sidebar - 1 Level](./src/assets/Task3.Part2.png)
+![Sidebar - 1 Level](screenshots/sidebar-1level.png)
 
 Open (2-Level Nested → Step 1)
-![Sidebar - 2 Level Step 1](./src/assets/Task3.Part3.png)
+![Sidebar - 2 Level Step 1](screenshots/sidebar-2level-step1.png)
 
 Open (2-Level Nested → Step 2)
-![Sidebar - 2 Level Step 2](./src/assets/Task3.Part4.png)
+![Sidebar - 2 Level Step 2](screenshots/sidebar-2level-step2.png)
+
+```
