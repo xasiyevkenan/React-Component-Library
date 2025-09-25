@@ -1,0 +1,32 @@
+.input-container {
+  position: relative;
+  display: inline-block;
+}
+
+.input-field {
+  font-size: 14px;
+  line-height: 1.5;
+  padding: 5px 15px;
+  border: 1px solid #ccc;
+  border-radius: 7px;
+}
+
+.input-icon {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-clear {
+  right: 1px;
+}
+
+.input-toggle {
+  right: 1px;
+}
