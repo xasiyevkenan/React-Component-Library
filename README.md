@@ -1,4 +1,29 @@
 React Component Library – Task Summary
+⚙️ Setup & Run from GitHub
+
+Clone the repository:
+
+git clone https://github.com/xasiyevkenan/React-Component-Library.git
+cd React-Component-Library
+
+Install dependencies:
+
+npm install
+
+Run Storybook:
+
+npm run storybook
+
+Storybook will open at http://localhost:6006
+
+All components and their variants can be previewed interactively
+
+Build Storybook (optional):
+
+npm run build-storybook
+
+Generates a static Storybook site in the storybook-static folder
+
 🎯 Overview
 
 This repository contains a small React component library built as part of a technical assessment.
@@ -94,7 +119,7 @@ Success
 Error
 ![Toast - Error](./src/assets/Task2.Part2.png)
 
-Info
+Warn
 ![Toast - Warn](./src/assets/Task2.Part3.png)
 
 3️⃣ Sidebar Menu Component
