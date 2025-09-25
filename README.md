@@ -26,7 +26,7 @@ npm run build-storybook
 
 # 💻 Tech Stack
 
-- **React 18+ ⚛️ | TypeScript 📝 | Storybook 📚 | ESLint + Prettier ✨ | React Hook Form 🛠️ | CSS / Styled Components 🎨**
+- **Vite + React 18+ ⚛️ | TypeScript 📝 | Storybook 📚 | ESLint + Prettier ✨ | React Hook Form 🛠️ | CSS / Styled Components 🎨**
 
 # 🔧 Features
 
