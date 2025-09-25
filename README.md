@@ -4,9 +4,9 @@ A small **React component library** created as part of a technical assessment. I
 
 ## ✅ Completed Tasks
 
-- **Input Component:** text, password, number types; clearable; password toggle; React Hook Form in stories; 6 story variants; screenshots included.
-- **Toast Component:** success, error, info types; auto-dismiss; fade/slide animations; optional manual close; 3 screenshot variants.
-- **Sidebar Menu Component:** open state rendering; nested menus (1-level & 2-level); 4 screenshot variants.
+- **Input Component:** text, password, number types; clearable; password toggle; React Hook Form in stories; 6 story variants; screenshots included.Used addon-controls.
+- **Toast Component:** success, error, info types; auto-dismiss; fade/slide animations; optional manual close; 3 screenshot variants.Used addon-controls.
+- **Sidebar Menu Component:** open state rendering; nested menus (1-level & 2-level); 4 screenshot variants.Used addon-controls.
 
 ## ⚙️ Setup & Run
 
@@ -15,6 +15,7 @@ git clone https://github.com/xasiyevkenan/React-Component-Library.git
 cd React-Component-Library
 npm install
 npm run storybook
+
 Storybook will open at http://localhost:6006 with all components interactive.
 ```
 
