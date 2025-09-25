@@ -20,7 +20,7 @@ Storybook will open at http://localhost:6006 with all components interactive.
 Optional static build:
 
 bash
-Kodu kopyala
+Copy code
 npm run build-storybook
 💻 Tech Stack
 React 18+ ⚛️ | TypeScript 📝 | Storybook 📚 | ESLint + Prettier ✨ | React Hook Form 🛠️ | CSS / Tailwind / Styled Components 🎨
