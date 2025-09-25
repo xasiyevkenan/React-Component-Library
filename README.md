@@ -76,13 +76,13 @@ Screenshots for all components
 # Sidebar Menu Component
 
 - **Open (No Nested)**
-  ![Sidebar - No Nested](screenshots/sidebar-nonested.png)
+  ![Sidebar - No Nested](./src/assets/Task3Part1.png)
 
 - **Open (1-Level Nested)**
-  ![Sidebar - 1 Level](screenshots/sidebar-1level.png)
+  ![Sidebar - 1 Level](./src/assets/Task3Part2.png)
 
 - **Open (2-Level Nested → Step 1)**
-  ![Sidebar - 2 Level Step 1](screenshots/sidebar-2level-step1.png)
+  ![Sidebar - 2 Level Step 1](./src/assets/Task3Part3.png)
 
 - **Open (2-Level Nested → Step 2)**
-  ![Sidebar - 2 Level Step 2](screenshots/sidebar-2level-step2.png)
+  ![Sidebar - 2 Level Step 2](./src/assets/Task3Part4.png)
