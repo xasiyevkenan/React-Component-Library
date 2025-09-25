@@ -30,19 +30,19 @@ npm run build-storybook
 
 # 🔧 Features
 
-- **Input Component:** multi-type, clearable, password toggle
+- **Input Component:** multi-type, clearable, password toggle, react-hook-form used
 
 - **Toast Component:** multiple types, auto-dismiss, fade/slide animations
 
-- **Sidebar Menu:** open state, 1-level & 2-level nested menus
+- **Sidebar Menu:** open state, 1-level & 2-level nested menus,fade/slide animations
 
 Interactive Storybook previews
 
 Fully modular, TypeScript-based
 
-Screenshots for all components
+# Screenshots for all components
 
-# Input Component
+## Input Component
 
 - **Text (Clearable)**
   ![Input - Text Clearable](./src/assets/Task1.Part1.png)
@@ -62,7 +62,7 @@ Screenshots for all components
 - **Number (Not Clearable)**
   ![Input - Number Not Clearable](./src/assets/Task1.Part6.png)
 
-# Toast Component
+## Toast Component
 
 - **Success✅**
   ![Toast - Success](./src/assets/Task2.Part1.png)
@@ -73,16 +73,16 @@ Screenshots for all components
 - **Warn⚠️**
   ![Toast - Warn](./src/assets/Task2.Part3.png)
 
-# Sidebar Menu Component
+## Sidebar Menu Component
 
 - **Open (No Nested)**
-  ![Sidebar - No Nested](./src/assets/Task3Part1.png)
+  ![Sidebar - No Nested](./src/assets/Task3.Part1.png)
 
 - **Open (1-Level Nested)**
-  ![Sidebar - 1 Level](./src/assets/Task3Part2.png)
+  ![Sidebar - 1 Level](./src/assets/Task3.Part2.png)
 
 - **Open (2-Level Nested → Step 1)**
-  ![Sidebar - 2 Level Step 1](./src/assets/Task3Part3.png)
+  ![Sidebar - 2 Level Step 1](./src/assets/Task3.Part3.png)
 
 - **Open (2-Level Nested → Step 2)**
-  ![Sidebar - 2 Level Step 2](./src/assets/Task3Part4.png)
+  ![Sidebar - 2 Level Step 2](./src/assets/Task3.Part4.png)
