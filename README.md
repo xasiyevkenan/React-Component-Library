@@ -16,16 +16,20 @@ cd React-Component-Library
 npm install
 npm run storybook
 Storybook will open at http://localhost:6006 with all components interactive.
+```
 
-Optional static build:
+## Optional static build:
 
-bash
-Copy code
+```bash
 npm run build-storybook
-💻 Tech Stack
-React 18+ ⚛️ | TypeScript 📝 | Storybook 📚 | ESLint + Prettier ✨ | React Hook Form 🛠️ | CSS / Tailwind / Styled Components 🎨
+```
 
-🔧 Features
+# 💻 Tech Stack
+
+- **React 18+ ⚛️ | TypeScript 📝 | Storybook 📚 | ESLint + Prettier ✨ | React Hook Form 🛠️ | CSS / Tailwind / Styled Components 🎨**
+
+# 🔧 Features
+
 Input Component: multi-type, clearable, password toggle
 
 Toast Component: multiple types, auto-dismiss, fade/slide animations
@@ -82,5 +86,3 @@ Open (2-Level Nested → Step 1)
 
 Open (2-Level Nested → Step 2)
 ![Sidebar - 2 Level Step 2](screenshots/sidebar-2level-step2.png)
-
-```
